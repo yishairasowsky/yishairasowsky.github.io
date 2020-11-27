@@ -1,3 +1,21 @@
+# Welcome to Torah Tests!
+
+## Berachos 1:1
+### Try to fill in the blanks!
+
+From what time may one recite the _____ in ___________?
+From the time that the priests enter [their houses] in order to eat their terumah until ____________________ watch, the words of _____________.
+The sages say: until ________.
+Rabban ________ says: until dawn.
+Once it happened that his sons came home [late] from a wedding feast and they said to him: we have not yet recited the [evening] _____.
+He said to them: if it is not yet dawn you are still obligated to recite.
+And not in respect to this alone did they so decide, but wherever the sages say “until ________,” the _______ may be performed until dawn.
+The burning of the fat and the pieces may be performed _________.
+Similarly, all [the offerings] that are to be eaten within _______ may be eaten till dawn.
+Why then did the sages say “until ________”?
+In order to keep a man far from transgression.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yishairasowsky/yishairasowsky.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
