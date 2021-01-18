@@ -1,6 +1,8 @@
 # Gemara Summaries:
 # - סיכומי הדף -
 
+# Yevamos:
+## [יבמות ל"ו א](https://docs.google.com/document/d/1opRJWt829dS3Iv2jGEw_MP9pIpQm67qcQTZ6UrvwKZs/edit?usp=sharing)
 # Pesachim:
 ## [פסחים מ״ט א](https://docs.google.com/document/d/1x3O45MN_GetfurPKtvoxd2aGIDIWdzHmWifTyag8swk/edit?usp=sharing)
 ## [פסחים מ״ט ב](https://docs.google.com/document/d/1sh7YviS2NNb7aRivCZyAIPEJ1sUeWjSzu5Bd7dnt9uU/edit?usp=sharing)
@@ -11,7 +13,7 @@
 
 ## Arvei Pesachim:
 ## [פסחים ק"ה א](https://docs.google.com/document/d/1MJbvj7o8PAV29i_vN0ZtOadBX80ZCU4jx-tuef_1eeo/edit?usp=sharing)
-<!-- ## [פסחים ק"ה א](https://docs.google.com/document/d/1MJbvj7o8PAV29i_vN0ZtOadBX80ZCU4jx-tuef_1eeo/edit?usp=sharing) -->
+## [פסחים ק"ה ב](https://docs.google.com/document/d/14tmyu-EkiYmf-c-bJrs-3kmB6ug6oXLfSZJHMHVrbx4/edit?usp=sharing)
 
 ## Contact Us:
 #### We'd like to hear your feedback via [gemarasummaries at gmail dot com](gemarasummaries@gmail.com).
