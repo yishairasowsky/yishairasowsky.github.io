@@ -2,6 +2,7 @@
 # - סיכומי הדף -
 
 # Yevamos:
+## [יבמות ל"ה ב](https://docs.google.com/document/d/1ll9CsaWwU8MhGOZyHTqgOXGlvkpGPFGe5xu6ntwDh5Y/edit?usp=sharing)
 ## [יבמות ל"ו א](https://docs.google.com/document/d/1opRJWt829dS3Iv2jGEw_MP9pIpQm67qcQTZ6UrvwKZs/edit?usp=sharing)
 # Pesachim:
 ## [פסחים מ״ט א](https://docs.google.com/document/d/1x3O45MN_GetfurPKtvoxd2aGIDIWdzHmWifTyag8swk/edit?usp=sharing)
