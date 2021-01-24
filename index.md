@@ -1,3 +1,6 @@
+FORMAT: 1A
+HOST: http://www.google.com
+
 <h1 style="text-align: center;">
 סיכומי ש"ס
 </h1>
