@@ -9,7 +9,9 @@
 
 
 ## [יבמות](masechtos\yevamos.md)
+## [יבמות](yevamos.md)
 ## [פסחים](masechtos\pesachim.md)
+## [פסחים](pesachim.md)
 
 ## Contact Us:
 #### We'd like to hear your feedback via [gemarasummaries at gmail dot com](gemarasummaries@gmail.com).
